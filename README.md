@@ -6,9 +6,7 @@ Project Description
 
 **Project Status:**
 
-- #1 Got basic documation started at https://hgv.readme.io/. Yippy!
-- #2
-- #3
+- #1 Got a great start with [documation](https://hgv.readme.io/) from [ReadMe.io](http://readme.io). Yippy!
 
 ## Getting Started
 
