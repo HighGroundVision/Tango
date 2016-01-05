@@ -6,7 +6,7 @@ Project Description
 
 **Project Status:**
 
-- #1. Yippy!
+- #1 Got basic documation started at https://hgv.readme.io/. Yippy!
 - #2
 - #3
 
