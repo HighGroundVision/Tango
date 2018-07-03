@@ -1,28 +1,21 @@
-#  Tango
+# tango
 
-**Build Status Bagde**
+> Landing Page for High Ground Vision
 
-Project Description
+## Build Setup
 
-**Project Status:**
+``` bash
+# install dependencies
+npm install
 
-- #1 Got a great start with [documation](https://hgv.readme.io/) from [ReadMe.io](http://readme.io). Yippy!
+# serve with hot reload at localhost:8080
+npm run dev
 
-## Getting Started
+# build for production with minification
+npm run build
 
-Details of process.
+# build for production and view the bundle analyzer report
+npm run build --report
+```
 
-## License
-
-See the LICENSE file.
-
-## Help
-
-If you have any questions, you can tweet us at [@DotaHGV](https://twitter.com/DotaHGV)
-
-## Authors and Acknowledgements
-
-Tango is maintained and development by [HGV](http://www.highgroundvision.com), a leading Dota 2 data visualization and analysis web site. HGV's Team:
-
-* [Jamie Webster](https://github.com/RGBKnights) 
-* [Graham Clifford](https://github.com/gclifford)
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
