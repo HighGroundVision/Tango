@@ -11,3 +11,13 @@ build_script:
 artifacts:
 - path: dist\
   name: web-app
+deploy:
+- provider: WebDeploy
+  server: hgv-tango.scm.azurewebsites.net:443/msdeploy.axd?site=hgv-tango
+  website: hgv-tango
+  username: $hgv-tango
+  password:
+    secure: arRQ8kTlBOnoiTnbSRPJWKPlkO1KyA8P1d/xkCcW0eoFuajKhF2XOwWkIEeoPnGM/SSVYGhZjx3d5Cs60VLCYg==
+  artifact: web-app
+  remove_files: true
+  app_offline: true
