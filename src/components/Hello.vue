@@ -60,6 +60,11 @@
             <a href="https://github.com/HighGroundVision/Butterfly" target="_blank">Butterfly</a>
             <p class="list-group-item-description-lg">The source code to the Draft Strength Check web application.</p>
           </li>
+          <li class="list-group-item">
+            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Tango.png" rounded="circle" class="icon-lg"></b-img>
+            <a href="https://github.com/HighGroundVision/Tango" target="_blank">Tango</a>
+            <p class="list-group-item-description-lg">The source code to the [THIS] web application.</p>
+          </li>
         </ul>
       </b-col>
       <b-col>
@@ -131,7 +136,7 @@ export default {
   padding-right: 25px;
 }
 .icon-lg {
-  height: 50px;
+  /*height: 50px;*/
   width: 50px;
 }
 .list-group-item-description-lg {
