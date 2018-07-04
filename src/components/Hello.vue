@@ -58,7 +58,7 @@
           <li class="list-group-item">
             <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Butterfly.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Butterfly" target="_blank">Butterfly</a>
-            <p class="list-group-item-description-lg">The source code to the Draft Strength Check web application.</p>
+            <p class="list-group-item-description-lg">The source code to the Team Coordinator web application.</p>
           </li>
           <li class="list-group-item">
             <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Tango.png" rounded="circle" class="icon-lg"></b-img>
@@ -80,7 +80,7 @@
           </li>
           <li class="list-group-item">
             <b-img src="/static/runes/damage.png" rounded="circle" class="icon-sm"></b-img>
-            <a href="#" target="_blank">Draft Strength Check</a>
+            <a href="#" target="_blank">Team Coordinator</a>
             <p class="list-group-item-description-sm">Is a web application that specializes in comparing All Pick drafts. Providing a breakdown of draft composition, rivals and allies, team strength / lanes / time.</p>
           </li>
         </ul>
