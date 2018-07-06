@@ -75,12 +75,12 @@
         <ul class="list-group">
           <li class="list-group-item">
             <b-img src="/static/runes/arcane.png" rounded="circle" class="icon-sm"></b-img>
-            <a href="http://abilitydrafter.com" target="_blank">Abiltiy Drafter</a>
+            <a href="https://hgv-desolator.azurewebsites.net/" target="_blank">Abiltiy Drafter</a>
             <p class="list-group-item-description-sm">Is a web application that specializes in Ability Draft mode. Providing stats on Ability and Combos. Also, your match history filtered and tailored to AD. As well, a drafting tool to help optimize and maximize your drafting strategy!</p>
           </li>
           <li class="list-group-item">
             <b-img src="/static/runes/damage.png" rounded="circle" class="icon-sm"></b-img>
-            <a href="#" target="_blank">Draft Strength Check</a>
+            <a href="https://hgv-butterfly.azurewebsites.net/" target="_blank">Draft Strength Check</a>
             <p class="list-group-item-description-sm">Is a web application that specializes in comparing All Pick drafts. Providing a breakdown of draft composition, rivals and allies, team strength / lanes / time.</p>
           </li>
         </ul>
