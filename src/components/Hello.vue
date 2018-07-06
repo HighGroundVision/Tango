@@ -5,7 +5,7 @@
         <div class="text-center">
           <img src="/static/logo.jpg" class="rounded-circle" width="150" height="150" alt="Logo" />
           <h1 class="text-warning">High Ground Vision</h1>
-          <p>[HGV] started as a side project of a group of Dota 2 fans and it still operates that way. We have a number of other niche tools for Dota 2. We don’t intend to make any money from it, although we try to at least break even on the server bills. We’re also happy to share our knowledge with the community by open sourcing our stack. Development is done by volunteers contributing in their free time.</p>
+          <p>[HGV] Started as a side project of a group of Dota 2 fans and it still operates that way. We have a number of niche tools for Dota 2. We don’t intend to make any money from it, although we try to at least break even on the server bills. We’re also happy to share our knowledge with the community by open sourcing our stack. Development is done by volunteers contributing in their free time.</p>
         </div>
       </b-col>
     </b-row>
@@ -13,7 +13,7 @@
       <b-col>
         <div class="text-center">
           <h2 class="text-warning">Open Source</h2>
-          <p>We have open source our whole Ecosystem. This includes complete projects, tools / tooling, or just odds and ends. Get involved at our <a href="https://github.com/HighGroundVision">GitHub</a></p>
+          <p>We have open sourced our whole Ecosystem. This includes complete projects, tools / tooling, or just odds and ends. Get involved at our <a href="https://github.com/HighGroundVision">GitHub</a></p>
         </div>
         <ul class="list-group">
           <li class="list-group-item">
@@ -58,7 +58,7 @@
           <li class="list-group-item">
             <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Butterfly.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Butterfly" target="_blank">Butterfly</a>
-            <p class="list-group-item-description-lg">The source code to the Draft Strength Check web application.</p>
+            <p class="list-group-item-description-lg">The source code to the Team Coordinator web application.</p>
           </li>
           <li class="list-group-item">
             <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Tango.png" rounded="circle" class="icon-lg"></b-img>
@@ -80,7 +80,7 @@
           </li>
           <li class="list-group-item">
             <b-img src="/static/runes/damage.png" rounded="circle" class="icon-sm"></b-img>
-            <a href="https://hgv-butterfly.azurewebsites.net/" target="_blank">Draft Strength Check</a>
+            <a href="https://hgv-butterfly.azurewebsites.net/" target="_blank">Team Coordinator</a>
             <p class="list-group-item-description-sm">Is a web application that specializes in comparing All Pick drafts. Providing a breakdown of draft composition, rivals and allies, team strength / lanes / time.</p>
           </li>
         </ul>
