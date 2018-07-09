@@ -81,7 +81,7 @@
           <li class="list-group-item">
             <b-img src="/static/runes/damage.png" rounded="circle" class="icon-sm"></b-img>
             <a href="https://hgv-butterfly.azurewebsites.net/" target="_blank">Team Coordinator</a>
-            <p class="list-group-item-description-sm">Is a web application that specializes in comparing All Pick drafts. Providing a breakdown of draft composition, rivals and allies, team strength / lanes / time.</p>
+            <p class="list-group-item-description-sm">Is a web application that specializes in comparing team composition, team strength, rivals/allies, lane optimizer.</p>
           </li>
         </ul>
         <br />
