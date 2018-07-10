@@ -109,6 +109,14 @@
         </ul>
       </b-col>
     </b-row>
+    <br />
+    <b-row>
+      <b-col>
+        <div class="text-center">
+          © {{year}} - <a href="https://venatiostudios.azurewebsites.net/" target="_blank">Venatio Studios</a>
+        </div>
+      </b-col>
+    </b-row>
   </section>
 </template>
 
@@ -116,7 +124,9 @@
 export default {
   name: 'hello',
   data () {
-    return {}
+    return {
+      'year': new Date().getFullYear()
+    }
   }
 }
 </script>
