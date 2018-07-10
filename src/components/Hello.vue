@@ -3,7 +3,9 @@
     <b-row>
       <b-col>
         <div class="text-center">
-          <img src="/static/logo.jpg" class="rounded-circle" width="150" height="150" alt="Logo" />
+          <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=332863538" title="Go Vote for these wards; They are amazing!">
+            <img src="/static/wards.jpg" class="rounded-circle" width="150" height="150" alt="Wards" />
+          </a>
           <h1 class="text-warning">High Ground Vision</h1>
           <p>[HGV] Started as a side project of a group of Dota 2 fans and it still operates that way. We have a number of niche tools for Dota 2. We don’t intend to make any money from it, although we try to at least break even on the server bills. We’re also happy to share our knowledge with the community by open sourcing our stack. Development is done by volunteers contributing in their free time.</p>
         </div>
