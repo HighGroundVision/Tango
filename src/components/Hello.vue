@@ -3,7 +3,7 @@
     <b-row>
       <b-col>
         <div class="text-center">
-          <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=332863538" title="Go Vote for these wards; They are amazing!">
+          <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=332863538" target="_blank" title="Go Vote for these wards; They are amazing!">
             <img src="/static/wards.jpg" class="rounded-circle" width="150" height="150" alt="Wards" />
           </a>
           <h1 class="text-warning">High Ground Vision</h1>
