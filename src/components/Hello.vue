@@ -90,6 +90,7 @@
         <div class="text-center">
           <h2 class="text-warning">Friends</h2>
           <p>We could not have done all this on our own. We had help over the years from members of the following communities.</p>
+          <br />
         </div>
          <ul class="list-group">
           <li class="list-group-item">
@@ -110,6 +111,33 @@
           </li>
         </ul>
       </b-col>
+      <b-col>
+        <div class="text-center">
+          <h2 class="text-warning">Events</h2>
+          <p>We not only build tools we host events to watch Dota 2, with our local commmunity.</p>
+          <br />
+        </div>
+         <ul class="list-group">
+          <li class="list-group-item">
+            <a href="https://www.eventbrite.ca/e/dota-2-ti8-pubstomp-tickets-44555390372" target="_blank">TI8 Pubstomp</a>
+            <p>
+              There's nothing better than enjoying The International with friends.
+              But not every fan can make the journey to Vancouver to witness the tournament in person.
+              Come join us @ The Squire in London, Canada and enjoy a brew while watching TI on the big screen.
+            </p>
+          </li>
+          <li class="list-group-item">
+            <a href="https://www.eventbrite.ca/e/dota-2-ti7-pubstomp-tickets-36530662194" target="_blank">TI7 Pubstomp</a>
+            <p>Dota International 7 Pubstomp</p>
+          </li>
+        </ul>
+      </b-col>
+      <!--
+      <b-col>
+        
+        </ul>
+      </b-col>
+      -->
     </b-row>
     <br />
     <b-row>
