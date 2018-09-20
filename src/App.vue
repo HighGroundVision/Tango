@@ -13,11 +13,4 @@ export default {
 </script>
 
 <style>
-.app-body {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #0B1425;
-  color: white;
-}
 </style>

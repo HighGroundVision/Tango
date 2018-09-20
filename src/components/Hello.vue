@@ -163,9 +163,6 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-.list-group {
-  color: black;
-}
 .icon-sm {
   height: 20px;
   width: 20px;
