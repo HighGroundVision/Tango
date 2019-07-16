@@ -88,7 +88,7 @@
           <li class="list-group-item">
             <b-img src="/static/runes/illusion.png" rounded="circle" class="icon-sm"></b-img>
             <a href="https://hgv-vanguard.azurewebsites.net/" target="_blank">Artifact Puzzle Builder [Beta]</a>
-            <p class="list-group-item-description-sm">his tool will let you create puzzles with a UI that will guide you through the process.</p>
+            <p class="list-group-item-description-sm">this tool will let you create puzzles with a UI that will guide you through the process.</p>
           </li>
         </ul>
         <br />
