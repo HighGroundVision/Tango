@@ -145,7 +145,7 @@
                         </p>
                         <p>
                             Any team which is unable or no longer wishes to actively take part in the league after signing 
-                            up should communicate this to our league administration through the Discord Bot.
+                            up should communicate this to our league administration or the Discord Bot.
                         </p>
                         <p>
                           Any team which does not show up to two matches within a phase will be disqualified from the current event. 
@@ -164,35 +164,33 @@
                           league play they may have their own set of rules for the event, but each is sumnmarized below.
                         </p>
 
-                        <h4>HGV Blitz</h4>
+                        <h4>Blitz</h4>
                         <p>
-                          Auctor urna nunc id cursus metus aliquam eleifend mi. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. 
-                          Ac ut consequat semper viverra nam libero justo. Eu augue ut lectus arcu bibendum at varius vel pharetra.
-                          Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Ut lectus arcu bibendum at varius. 
-                          Aliquet enim tortor at auctor. Volutpat sed cras ornare arcu dui vivamus. Elementum integer enim neque volutpat. 
-                          In hac habitasse platea dictumst quisque sagittis purus sit. Curabitur gravida arcu ac tortor dignissim. 
-                          Purus gravida quis blandit turpis cursus in hac. Duis ut diam quam nulla porttitor massa id neque.
+                          High Ground Vision can host Blitz Matches which will be the heart and soul of the amateur community. 
+                          With limit pre warning matches will be automaticly schedule by our Discord bot
+                          and Matches Hosted by our Stream Bot. Iteraction with both of these bots is required to take part in matches. 
+                          There is some setup required to register our Bot Framework but it should only be required once. 
+                          The bot framework will automaticly announce A up coming  match on Saturtday or Sundays. 
+                          There maybe more then one  on a weekend.
+                          After the announce on a frist come bases participants can register for the  match.
+                          Registeration will be on going untill ten (10) participants are registered.
+                          If five (5) minutes before the  match and not all slots have been filled the match will be canceled.
                         </p>
 
-                        <h4>HGV Tournaments</h4>
+                        <h4>Tournaments</h4>
                         <p>
-                          Praesent semper feugiat nibh sed pulvinar. Nunc sed augue lacus viverra. Nunc sed velit dignissim sodales ut. 
-                          Ante metus dictum at tempor commodo. Tortor dignissim convallis aenean et tortor at risus viverra adipiscing. 
-                          Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus. Auctor augue mauris augue neque gravida. 
-                          Sit amet venenatis urna cursus eget nunc scelerisque. Aliquam purus sit amet luctus venenatis lectus magna fringilla urna. 
-                          Sed id semper risus in hendrerit gravida rutrum quisque. Morbi tristique senectus et netus et malesuada. 
-                          Fermentum posuere urna nec tincidunt praesent semper. Est ullamcorper eget nulla facilisi etiam dignissim diam. 
-                          Facilisis mauris sit amet massa.
+                          High Ground Vision can host tournaments throught out the season with registed teams. 
+                          These tournaments will be announced well ahead of time giving participants time to form and registed teams.
+                          Each tournament will announce its own format and rules.
+                          Unless otherwise stated these rules listed here also apply to these tournament.
                         </p>
 
-                        <h4>HGV Special Events</h4>
+                        <h4>Special Events</h4>
                         <p>
-                          Nunc id cursus metus aliquam. Ac felis donec et odio pellentesque diam volutpat commodo sed. 
-                          Eget nullam non nisi est sit amet facilisis. Nullam vehicula ipsum a arcu cursus vitae congue mauris. 
-                          Pulvinar neque laoreet suspendisse interdum consectetur libero. Id neque aliquam vestibulum morbi blandit cursus risus. 
-                          Morbi leo urna molestie at elementum eu facilisis sed odio. Cum sociis natoque penatibus et magnis dis parturient. 
-                          Sem fringilla ut morbi tincidunt augue interdum velit. Libero justo laoreet sit amet cursus sit amet. 
-                          At tellus at urna condimentum mattis pellentesque id.
+                          High Ground Vision can host popup events for other activities that are not normaly part of the league. 
+                          These speical events may utilize the same systems and personal.
+                          Participants by registering to take part in this league maybe invite to take part in these speical events.
+                          Admins will make an anccoument and direct message the participants in this case.
                         </p>
       
                         <h2 class="text-center">Teams and Players</h2>
