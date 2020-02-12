@@ -122,7 +122,7 @@
           <p>We not only build tools we host events to watch Dota 2, with our local commmunity.</p>
           <br />
         </div>
-         <ul class="list-group">
+        <ul class="list-group">
           <li class="list-group-item">
             <a href="https://www.eventbrite.ca/e/dota-2-ti8-pubstomp-tickets-44555390372" target="_blank">TI8 Pubstomp</a>
             <p>
@@ -134,6 +134,18 @@
           <li class="list-group-item">
             <a href="https://www.eventbrite.ca/e/dota-2-ti7-pubstomp-tickets-36530662194" target="_blank">TI7 Pubstomp</a>
             <p>Dota International 7 Pubstomp</p>
+          </li>
+        </ul>
+        <br />
+        <div class="text-center">
+          <h2 class="text-warning">League</h2>
+          <p>We also host a Ability Draft League for the community. HGV supports a number of tournaments through out the year. As well, we invite others memebers of the AD community to host their tournaments and leagues with us to grow the AD community together.</p>
+          <br />
+        </div>
+        <ul class="list-group">
+          <li class="list-group-item">
+            <b-link to="/league">HGV AD Open 2020</b-link>
+            <p>Amateur Ability Draft League Host by HGV</p>
           </li>
         </ul>
       </b-col>
