@@ -94,7 +94,7 @@
                         </p>
                         <p>
                           Every participant must show respect towards admins and other participants. 
-                          Insults and unfair or disrespectful behaviour towards anyone are not tolerated and will be punished.
+                          Insults and unfair or disrespectful behavior towards anyone are not tolerated and will be punished.
                         </p>
                         <p>
                           Every participant must always have the newest version of Steam and Dota 2 installed and must check for 
@@ -160,37 +160,37 @@
 
                         <h3>Types</h3> 
                         <p>
-                          A noted befor there are number of diferent of events HGV can host while each of these is part of 
-                          league play they may have their own set of rules for the event, but each is sumnmarized below.
+                          A noted before there are number of different of events HGV can host while each of these is part of 
+                          league play they may have their own set of rules for the event, but each is summarized below.
                         </p>
 
                         <h4>Blitz</h4>
                         <p>
                           High Ground Vision can host Blitz Matches which will be the heart and soul of the amateur community. 
-                          With limit pre warning matches will be automaticly schedule by our Discord bot
-                          and Matches Hosted by our Stream Bot. Iteraction with both of these bots is required to take part in matches. 
+                          With limit pre warning matches will be automatically schedule by our Discord bot
+                          and Matches Hosted by our Stream Bot. Iteration with both of these bots is required to take part in matches. 
                           There is some setup required to register our Bot Framework but it should only be required once. 
-                          The bot framework will automaticly announce A up coming  match on Saturtday or Sundays. 
+                          The bot framework will automatically announce A up coming  match on Saturday or Sundays. 
                           There maybe more then one  on a weekend.
-                          After the announce on a frist come bases participants can register for the  match.
-                          Registeration will be on going untill ten (10) participants are registered.
+                          After the announce on a first come bases participants can register for the  match.
+                          Registration will be on going until ten (10) participants are registered.
                           If five (5) minutes before the  match and not all slots have been filled the match will be canceled.
                         </p>
 
                         <h4>Tournaments</h4>
                         <p>
-                          High Ground Vision can host tournaments throught out the season with registed teams. 
-                          These tournaments will be announced well ahead of time giving participants time to form and registed teams.
+                          High Ground Vision can host tournaments through out the season with register teams. 
+                          These tournaments will be announced well ahead of time giving participants time to form and registered teams.
                           Each tournament will announce its own format and rules.
                           Unless otherwise stated these rules listed here also apply to these tournament.
                         </p>
 
                         <h4>Special Events</h4>
                         <p>
-                          High Ground Vision can host popup events for other activities that are not normaly part of the league. 
-                          These speical events may utilize the same systems and personal.
-                          Participants by registering to take part in this league maybe invite to take part in these speical events.
-                          Admins will make an anccoument and direct message the participants in this case.
+                          High Ground Vision can host popup events for other activities that are not normally part of the league. 
+                          These special events may utilize the same systems and personal.
+                          Participants by registering to take part in this league maybe invite to take part in these special events.
+                          Admins will make an announcement and direct message the participants in this case.
                         </p>
       
                         <h2 class="text-center">Teams and Players</h2>
@@ -204,7 +204,7 @@
                         <h3>Registration</h3> 
                         <p>
                           In order to sign up for Tournaments, a team must have at least five (5) members with valid steam IDs.
-                          Indviuals may sign up for Blitz matches in which case the Admin will assign teams.
+                          Individuals may sign up for Blitz matches in which case the Admin will assign teams.
                         </p>
                         
                         <h3>Eligible Players</h3>
@@ -233,11 +233,11 @@
                         <p>
                             Only the person that is marked as leader can transfer their leadership to another person.
                             The leadership can also be forcefully changed if more than 50% of the team members decide on a new leader. 
-                            This must be requested via comunitication with and approved by an administrator.
+                            This must be requested via communication with and approved by an administrator.
                         </p>
 
                         <p>
-                          Each team may add up to one (1) new player to their team during an event. To replace a departing memeber.
+                          Each team may add up to one (1) new player to their team during an event. To replace a departing member.
                         </p>
                         <p>
                           A player may only change their team once per season. 
@@ -249,17 +249,17 @@
                         <h3>Default times</h3>
 
                         <h4>HGV Blitz</h4>
-                        <p>The Scheduling of Blitz matches is handled automaticly by our Discord Bot.</p>
+                        <p>The Scheduling of Blitz matches is handled automatically by our Discord Bot.</p>
 
                         <h4>HGV Tournaments</h4>
                         <p>
                           Tournaments will take place on weekends.
-                          Generaly in two phases with phase one being held on Saturtday and phase two being held on Sunday.
+                          generally in two phases with phase one being held on Saturday and phase two being held on Sunday.
                         </p>
 
                         <h4>HGV Special Events</h4>
                         <p>
-                          May not be moved at all as they are time sentive in nature.
+                          May not be moved at all as they are time sensitive in nature.
                         </p>
       
                         <h3>Other possible match times</h3> 
@@ -346,7 +346,7 @@
                           The lobby owner sets Selection Priority to "Automatic (Coin Toss)".
                         </p>
                         <p>
-                          If for some reason this ingame function does not work, Selection Priority must be set to "Manual". 
+                          If for some reason this in game function does not work, Selection Priority must be set to "Manual". 
                           The following is a full explanation of the different game modes:
                         </p>
                         <ul>
@@ -374,7 +374,7 @@
                           As soon as the first creep wave spawns, the game is considered ongoing and protests about the roster are no longer accepted.
                         </p>
                         <p>
-                          Delays caused by invalid rosters are treated like any other delay and are covered in the Punctionality rules.
+                          Delays caused by invalid rosters are treated like any other delay and are covered in the Punctuality rules.
                           However, every team has at least five (5) minutes to fix an invalid roster regardless of how much time is remaining.
                         </p>
 
@@ -406,7 +406,7 @@
 
                         <h3>Bugs</h3> 
                         <p>
-                          Abusing a bug is strictly forbidden. What is a bug and what is feature is soly up to the discretion of the administration.
+                          Abusing a bug is strictly forbidden. What is a bug and what is feature is solely up to the discretion of the administration.
                         </p>
                         
                         <h3>Cheating</h3> 
@@ -445,15 +445,15 @@
                         <h2 class="text-center">Prizes</h2> 
                         <p>
                           The prize pool may apply to HGV Tournaments and will be stated when the Tournament is announced.
-                          Other prize may include but not limited to Discord / Reddit flair, invations to cast future events, etc.
+                          Other prize may include but not limited to Discord / Reddit flair, invitations to cast future events, and/or other items at the discretion administration
                         </p>
                         
                         <a name="legal"></a>
                         <h2 class="text-center">Legal Process</h2> 
                         <p>
-                          Legal proceedings are not permitted.
+                          Legal proceedings are not permitted. All items will be moderated by the administration whom at their discretion may evaluate an individual issue to the regional authorities.
                         </p>
-                        <b>Last update: 02.11.2020</b>
+                        <b>Last update: 09.30.2020</b>
                     </div>
                 </div>
             </b-col>
