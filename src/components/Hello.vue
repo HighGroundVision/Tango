@@ -19,51 +19,51 @@
         </div>
         <ul class="list-group">
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/ring_of_basilius_active.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/ring_of_basilius_active.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Basilius" target="_blank">Basilius</a>
             <p class="list-group-item-description-lg">.Net clients for download hero, ability, and items from daily cache provided by DotaBuff.</p>
             <p class="list-group-item-description-lg">This project is avaible as <a href="https://www.nuget.org/packages/HGV.Basilius/">Nuget</a> package.</p>
           </li>
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Daedalus.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/Daedalus.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Daedalus" target="_blank">Daedalus</a>
             <p class="list-group-item-description-lg">.Net client for interacting with the STEAM api. This is focus around Dota 2 endpoints.</p>
             <p class="list-group-item-description-lg">This project is avaible as <a href="https://www.nuget.org/packages/HGV.Daedalus/">Nuget</a> package.</p>
           </li>
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Crystalys.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/Crystalys.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Crystalys" target="_blank">Crystalys</a>
             <p class="list-group-item-description-lg">.Net client for interacting with the STEAM Server and Dota Game Coordinator</p>
             <p class="list-group-item-description-lg">This project is avaible as <a href="https://www.nuget.org/packages/HGV.Crystalys/">Nuget</a> package.</p>
           </li>
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Hyperstone.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/Hyperstone.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Hyperstone" target="_blank">Hyperstone</a>
             <p class="list-group-item-description-lg">A reponsitory of the images for Dota 2. This includes Heros's banner, profile and icon. Images for abilities, items, runes, wards, and some miscellaneous.</p>
-            <p class="list-group-item-description-lg">A <a href="https://hgv-hyperstone.azurewebsites.net/">website</a> is mantined as copy of this repo for projects to access from the web.</p>
+            <p class="list-group-item-description-lg">A <a href="https://hyperstone.highgroundvision.com/images/">website</a> is mantined as copy of this repo for projects to access from the web.</p>
           </li>
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Desolator.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/Desolator.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Desolator" target="_blank">Desolator</a>
             <p class="list-group-item-description-lg">The source code to the Abiltiy Drafter web application.</p>
           </li>        
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/heart.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/heart.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Tarrasque" target="_blank">Tarrasque</a>
             <p class="list-group-item-description-lg">.Net Functions for serverless backing to the Desolator project. That handles login form Steam, Karma for abilities and combos, and match history for users.</p>
           </li>
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Nullifier.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/Nullifier.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Nullifier" target="_blank">Nullifier</a>
             <p class="list-group-item-description-lg">.Net desktop console application to collection stats from AD matches for the Desolator project.</p>
           </li>
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Butterfly.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/Butterfly.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Butterfly" target="_blank">Butterfly</a>
             <p class="list-group-item-description-lg">The source code to the Team Coordinator web application.</p>
           </li>
           <li class="list-group-item">
-            <b-img src="https://hgv-hyperstone.azurewebsites.net/items/Tango.png" rounded="circle" class="icon-lg"></b-img>
+            <b-img src="https://hyperstone.highgroundvision.com/images/items/Tango.png" rounded="circle" class="icon-lg"></b-img>
             <a href="https://github.com/HighGroundVision/Tango" target="_blank">Tango</a>
             <p class="list-group-item-description-lg">The source code to the [THIS] web application.</p>
           </li>
