@@ -7,10 +7,9 @@
                     <h1>
                     <b-link to="/" class="text-warning">High Ground Vision</b-link>
                     </h1>
-                    <h3>HGV AD Open 2020</h3>
+                    <h3>HGV AD Open 2021</h3>
                     <p>Amateur Ability Draft League Host by High Ground Vision</p>
                     <p>We run small community around ability draft games.</p>
-                    <p>Check out our stats site at <a href="http://abilitydrafter.com/">Ability Drafter</a></p>
                     <p>Join us on <a href="https://www.reddit.com/r/Abilitydraft/">Reddit</a> or <a href="https://discord.gg/sSFjabV">Discord</a>.</p>
                     <p>We try and stream league games live on <a href="https://www.twitch.tv/highgroundvision">Twitch</a>.</p>
                 </div>
