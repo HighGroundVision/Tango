@@ -170,7 +170,7 @@
         </div>
         <ul class="list-group">
           <li class="list-group-item">
-            <b-link to="/league">HGV AD Open 2020</b-link>
+            <b-link to="/league">HGV AD Open 2021</b-link>
             <p>Amateur Ability Draft League Host by HGV</p>
           </li>
         </ul>
