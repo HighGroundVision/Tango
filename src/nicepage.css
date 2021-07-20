@@ -24482,6 +24482,7 @@ a.u-link.u-hover-grey-light-3:hover {
 .u-table-alt-white tr:nth-child(even) {
   color: #111111;
   background-color: #ffffff;
+  opacity: 0.85;
 }
 .u-button-style.u-white,
 .u-button-style.u-white[class*="u-border-"] {
