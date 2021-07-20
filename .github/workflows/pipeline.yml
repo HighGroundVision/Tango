@@ -26,9 +26,9 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: build
-          path: dist
+          path: src
       - uses: tibor19/static-website-deploy@v1
         with:
           enabled-static-website: 'true'
-          folder: 'dist'
+          folder: 'src'
           connection-string: ${{ secrets.CONNECTION_STRING }}
