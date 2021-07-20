@@ -18,14 +18,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '12'
-      - run: npm install
-      - run: npm run build
       - uses: actions/upload-artifact@v2
         with:
-          name: build
+          name: static
           path: src
       - uses: tibor19/static-website-deploy@v1
         with:
